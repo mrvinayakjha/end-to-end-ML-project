@@ -1,1 +1,19 @@
 # end-to-end-ML-project
+
+## STEPS:
+
+'''bash
+conda create -n mlproj python=3.8 -y 
+'''
+
+'''bash
+conda activate mlproj
+'''
+
+'''bash
+pip install -r requirements.txt
+'''
+
+'''bash
+pip install -r requirements.txt
+'''
