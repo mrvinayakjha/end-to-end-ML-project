@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: mlProject
+Version: 0.0.0
+Summary: A small python package for ml app
+Home-page: https://github.com/mrvinayakjha/end-to-end-ML-project
+Author: mrvinayakjha
+Author-email: vinayakkumarjha2000@gmail.com
+Project-URL: Bug Tracker, https://github.com/mrvinayakjha/end-to-end-ML-project/issues
+
+# end-to-end-ML-project
+
+## STEPS:
+
+''' bash
+conda create -n mlproj python=3.8 -y 
+'''
+
+'''bash
+conda activate mlproj
+'''
+
+'''bash
+pip install -r requirements.txt
+'''
+
+'''bash
+pip install -r requirements.txt
+'''
